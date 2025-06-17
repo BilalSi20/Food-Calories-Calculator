@@ -1,0 +1,52 @@
+{
+    "dish_name": "Turkish Meal",
+    "weight_or_volume": "Approximately 700 grams",
+    "calories": "Approximately 950 calories",
+    "ingredients": [
+        {
+            "ingredient_name": "Tomato and Cucumber Salad",
+            "ingredient_weight_or_volume": "150 grams",
+            "ingredient_calories": "50 calories",
+            "ingredient_nutrition": {
+                "proteins": "2 grams",
+                "carbs": "10 grams",
+                "fats": "1 gram"
+            }
+        },
+        {
+            "ingredient_name": "Soup",
+            "ingredient_weight_or_volume": "200 ml",
+            "ingredient_calories": "150 calories",
+            "ingredient_nutrition": {
+                "proteins": "5 grams",
+                "carbs": "20 grams",
+                "fats": "5 grams"
+            }
+        },
+        {
+            "ingredient_name": "Rice with White Beans",
+            "ingredient_weight_or_volume": "200 grams",
+            "ingredient_calories": "400 calories",
+            "ingredient_nutrition": {
+                "proteins": "15 grams",
+                "carbs": "70 grams",
+                "fats": "5 grams"
+            }
+        },
+        {
+            "ingredient_name": "Chicken Stew",
+            "ingredient_weight_or_volume": "150 grams",
+            "ingredient_calories": "350 calories",
+            "ingredient_nutrition": {
+                "proteins": "30 grams",
+                "carbs": "20 grams",
+                "fats": "15 grams"
+            }
+        }
+    ],
+    "total_nutrition": {
+        "proteins": "52 grams",
+        "carbs": "120 grams",
+        "fats": "26 grams"
+    }
+}

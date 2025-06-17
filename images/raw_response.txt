@@ -1,0 +1,39 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "```json\n{\n  \"dish_name\": \"Burger with Fries\",\n  \"weight_or_volume\": \"Approx. 400g\",\n  \"calories\": \"Approx. 850 kcal\",\n  \"ingredients\": [\n    {\n      \"ingredient_name\": \"Burger Bun (with sesame seeds)\",\n      \"ingredient_weight_or_volume\": \"Approx. 80g\",\n      \"ingredient_calories\": \"Approx. 240 kcal\",\n      \"ingredient_nutrition\": {\n        \"proteins\": \"8g\",\n        \"carbs\": \"45g\",\n        \"fats\": \"3g\"\n      }\n    },\n    {\n      \"ingredient_name\": \"Beef Patty\",\n      \"ingredient_weight_or_volume\": \"Approx. 150g\",\n      \"ingredient_calories\": \"Approx. 380 kcal\",\n      \"ingredient_nutrition\": {\n        \"proteins\": \"30g\",\n        \"carbs\": \"0g\",\n        \"fats\": \"28g\"\n      }\n    },\n    {\n      \"ingredient_name\": \"Cheddar Cheese Slice\",\n      \"ingredient_weight_or_volume\": \"Approx. 20g\",\n      \"ingredient_calories\": \"Approx. 70 kcal\",\n      \"ingredient_nutrition\": {\n        \"proteins\": \"5g\",\n        \"carbs\": \"1g\",\n        \"fats\": \"6g\"\n      }\n    },\n    {\n      \"ingredient_name\": \"Lettuce\",\n      \"ingredient_weight_or_volume\": \"Approx. 15g\",\n      \"ingredient_calories\": \"Approx. 5 kcal\",\n      \"ingredient_nutrition\": {\n        \"proteins\": \"0.5g\",\n        \"carbs\": \"1g\",\n        \"fats\": \"0g\"\n      }\n    },\n    {\n      \"ingredient_name\": \"Tomato Slice\",\n      \"ingredient_weight_or_volume\": \"Approx. 20g\",\n      \"ingredient_calories\": \"Approx. 5 kcal\",\n      \"ingredient_nutrition\": {\n        \"proteins\": \"0.1g\",\n        \"carbs\": \"1g\",\n        \"fats\": \"0.1g\"\n      }\n    },\n    {\n      \"ingredient_name\": \"Red Onion Slice\",\n      \"ingredient_weight_or_volume\": \"Approx. 10g\",\n      \"ingredient_calories\": \"Approx. 4 kcal\",\n      \"ingredient_nutrition\": {\n        \"proteins\": \"0.1g\",\n        \"carbs\": \"1g\",\n        \"fats\": \"0g\"\n      }\n    },\n    {\n      \"ingredient_name\": \"Mayonnaise\",\n      \"ingredient_weight_or_volume\": \"Approx. 15g\",\n      \"ingredient_calories\": \"Approx. 100 kcal\",\n      \"ingredient_nutrition\": {\n        \"proteins\": \"0g\",\n        \"carbs\": \"0g\",\n        \"fats\": \"11g\"\n      }\n    },\n    {\n      \"ingredient_name\": \"French Fries\",\n      \"ingredient_weight_or_volume\": \"Approx. 100g\",\n      \"ingredient_calories\": \"Approx. 246 kcal\",\n      \"ingredient_nutrition\": {\n        \"proteins\": \"3.4g\",\n        \"carbs\": \"31g\",\n        \"fats\": \"12g\"\n      }\n    }\n  ],\n  \"total_nutrition\": {\n    \"proteins\": \"47.1g\",\n    \"carbs\": \"79g\",\n    \"fats\": \"60.1g\"\n  }\n}\n```"
+          }
+        ],
+        "role": "model"
+      },
+      "finishReason": "STOP",
+      "avgLogprobs": -0.0345648744518887
+    }
+  ],
+  "usageMetadata": {
+    "promptTokenCount": 764,
+    "candidatesTokenCount": 861,
+    "totalTokenCount": 1625,
+    "promptTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 506
+      },
+      {
+        "modality": "IMAGE",
+        "tokenCount": 258
+      }
+    ],
+    "candidatesTokensDetails": [
+      {
+        "modality": "TEXT",
+        "tokenCount": 861
+      }
+    ]
+  },
+  "modelVersion": "gemini-2.0-flash",
+  "responseId": "JSxQaKrgH5SF_NUPqYHxmAg"
+}
