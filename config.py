@@ -1,5 +1,5 @@
 # Gemini API Configuration
-GEMINI_API_KEY = "AIzaSyCsyrZxq8hiLugQ8_7r1UJyv7UY-octaW0"
+GEMINI_API_KEY = ""
 GEMINI_MODEL_NAME = "gemini-2.0-flash"
 GEMINI_API_URL = "https://api.gemini.com/analyze"
 
